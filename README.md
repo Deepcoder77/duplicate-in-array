@@ -1,2 +1,2 @@
-# duplicate-in-array
+# important codes
 c++
